@@ -11,4 +11,6 @@ public class Hello
     {
         System.out.println("Hello2");
     }
+
+    public static void PrintMassage(){ System.out.println("Added this massage for a new branch 'Lesson1'")}
 }
