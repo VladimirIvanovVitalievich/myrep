@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b77423b9-df90-4298-98c8-74e49db0c223" name="Changes" comment="Added &quot;Hello&quot;">
+    <list default="true" id="b77423b9-df90-4298-98c8-74e49db0c223" name="Changes" comment="Added &quot;Hello2&quot;">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -10,7 +10,6 @@
       <change afterPath="$PROJECT_DIR$/myrep.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com.example/Hello2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com.example/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.example/Hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,19 +35,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "module",
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;module&quot;,
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\myrep\myrep\myrep\src" />
@@ -82,7 +81,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656772056480</updated>
-      <workItem from="1656772058339" duration="4122000" />
+      <workItem from="1656772058339" duration="4820000" />
+      <workItem from="1656839830565" duration="86000" />
     </task>
     <task id="LOCAL-00001" summary="Added &quot;Hello&quot;">
       <created>1656773013006</created>
@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656773013006</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added &quot;Hello2&quot;">
+      <created>1656776385003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656776385003</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +112,7 @@
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="false" />
+                  <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
             </State>
@@ -116,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added &quot;Hello&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;Hello&quot;" />
+    <MESSAGE value="Added &quot;Hello2&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;Hello2&quot;" />
   </component>
 </project>
